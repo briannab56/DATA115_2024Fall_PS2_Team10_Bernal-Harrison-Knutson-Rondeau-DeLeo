@@ -1,0 +1,7 @@
+Owen Harrison
+Problem Set 2
+10/1/2024
+
+1a. A bar chart is a graph representing the quantities of unique variables in a dataset, while a histogram represents a single variable's quantities over a specific measurement. For example, a bar chart can represent the populations in different cities in New York, while a Histogram can display how one of them has changed over a range of years.
+1b. The mean is the average of the numbers in a dataset (adding all of the numbers and dividing by the amount of them), and the median is the exact middle value. For example, in a set (1 2 2 4 5 6 9 12 17), the median is 6.44... and the mean is 5.
+1c. Pearson's correlation is a technique that allows you to measure the strength and direction between two variables with exact quantities, such as height, population, income, etc. Spearman's Rank-Order Correlation measures the same thing without being parametric, meaning it can be a curve as opposed to a linear graph.
